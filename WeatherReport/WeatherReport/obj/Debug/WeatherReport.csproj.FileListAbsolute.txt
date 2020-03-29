@@ -1,0 +1,6 @@
+D:\prog\WeatherReport\WeatherReport\obj\Debug\WeatherReport.csproj.CoreCompileInputs.cache
+D:\prog\WeatherReport\WeatherReport\bin\Debug\WeatherReport.exe.config
+D:\prog\WeatherReport\WeatherReport\bin\Debug\WeatherReport.exe
+D:\prog\WeatherReport\WeatherReport\bin\Debug\WeatherReport.pdb
+D:\prog\WeatherReport\WeatherReport\obj\Debug\WeatherReport.exe
+D:\prog\WeatherReport\WeatherReport\obj\Debug\WeatherReport.pdb
